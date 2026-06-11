@@ -1,0 +1,6 @@
+google-api-python-client
+google-auth
+langchain
+sentence-transformers
+pgvector
+google-generativeai
